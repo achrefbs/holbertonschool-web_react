@@ -1,0 +1,18 @@
+.App-logo {
+  height: 18rem;
+  width: 18rem;
+}
+
+.App-header {
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  border-bottom: 4px solid #e1354b;
+}
+
+.App-header h1 {
+  display: inline;
+  position: relative;
+  font-size: 50px;
+  color: #e1354b;
+}

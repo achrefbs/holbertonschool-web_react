@@ -1,0 +1,17 @@
+.Notifications {
+  border: 2px dashed #e1354b;
+  padding: 1rem;
+}
+
+ul li[data-notification-type='default'] {
+  color: blue;
+}
+
+ul li[data-notification-type='urgent'] {
+  color: red;
+}
+
+#close_icon {
+  width: 22px;
+  height: 22px;
+}

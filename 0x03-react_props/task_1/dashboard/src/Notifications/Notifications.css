@@ -1,0 +1,17 @@
+.Notifications {
+  border: 2px dashed #e1354b;
+  padding: 1rem;
+}
+
+ul li[data-priority='default'] {
+  color: blue;
+}
+
+ul li[data-priority='urgent'] {
+  color: red;
+}
+
+#close_icon {
+  width: 22px;
+  height: 22px;
+}

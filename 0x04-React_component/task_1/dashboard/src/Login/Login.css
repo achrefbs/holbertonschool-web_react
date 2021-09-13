@@ -1,0 +1,13 @@
+.App-body {
+  padding: 3rem;
+  margin-bottom: 20em;
+}
+
+label {
+  width: 10rem;
+}
+
+#ok {
+  margin-left: 0.5rem;
+  width: 3rem;
+}
